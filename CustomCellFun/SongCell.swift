@@ -13,3 +13,6 @@ class SongCell: UITableViewCell {
     @IBOutlet weak var nameOfSongLabel: UILabel!
     @IBOutlet weak var lengthOfSongLabel: UILabel!
 }
+
+
+// read
